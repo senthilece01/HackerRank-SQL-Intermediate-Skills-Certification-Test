@@ -1,4 +1,4 @@
-🧠 HackerRank SQL (Intermediate) Skills Certification Test
+# 🧠 HackerRank SQL (Intermediate) Skills Certification Test
 
 ![problems-solved](https://img.shields.io/badge/problem%20solved-2-1f72ff.svg)
 
